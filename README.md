@@ -6,4 +6,4 @@
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/mohmazou" alt="mohmazou's 42 stats" /></a>
 </br>
 </br>
-<img src = "https://github-readme-stats.vercel.app/api?username=Mazouz0&show_icons=true&theme=gruvbox">
+<img src = "https://github-readme-stats.vercel.app/api?username=Mazouz0&show_icons=true&theme=algolia">
